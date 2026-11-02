@@ -1,0 +1,218 @@
+header{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    div{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        button{
+            padding: 10px;
+            border-radius: 20px;
+            background-color: white;
+            border-color: #40AD74;
+        }
+        img{
+            background-image: url(./imgb2.svg);
+            padding: 15px 12px;
+            background-size: cover;
+        }
+    }
+}
+.a{
+    padding: 20px;
+    .aa{
+        background-image: linear-gradient(rgba(27, 27, 27, 1),rgba(27, 27, 27, 0.55)), url(./imgb4.svg);
+        background-size: cover;
+        padding: 250px;
+        border-radius: 30px;
+        div{
+            display: flex;
+            justify-content: center;
+            img{
+                position: relative;
+                top: 190px;
+                left: 90px;
+            }
+        }
+        span{
+            color: #40AD74;
+        }
+        h1{
+            font-size: 80px;
+            color: white;
+        }
+    }
+}
+.s{
+    padding: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    .s1{
+        font-size: 20px;
+        .ss{
+            display: flex;
+            gap: 30px;
+        }
+        h1{
+            color: #40AD74;
+            span{
+                color: black;
+            }
+        }
+    }
+}
+.d{
+    padding: 50px;
+    text-align: center;
+    margin-top: 100px;
+    .d1{
+        display: flex;
+        justify-content: center;
+        gap: 60px;
+        .imgb7{
+            position: relative;
+            bottom: 90px;
+        }
+        .imgb8{
+            position: relative;
+            top: 90px;
+        }
+    }
+    .d2{
+        margin-top: 110px;
+    }
+}
+.f{
+    padding: 110px;
+    .f1{
+        h1{
+            font-size: 70px;
+            span{
+                color: #40AD74;
+            }
+        }
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+    }
+    .f2{
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+        img{
+            width: 100%;
+        }
+    }
+    .f3{
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 40px;
+    }
+    .f4{
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+        button{
+            padding: 15px 60px;
+            background-color: #40AD74;
+            color: white;
+            border-radius: 5px;
+        }
+    }
+}
+.z{
+    padding: 110px;
+    h1{
+        font-size: 60px;
+        span{
+            color: #40AD74;
+        }
+    }
+    .zz{
+        display: flex;
+        gap: 110px;
+        .z1{
+            p{
+                width: 80px;
+                height: 20px;
+                background-color: #40AD74;
+                color: white;
+                padding: 5px;
+                border-radius: 10px;
+            }
+        }
+    }
+}
+.q{
+    padding: 110px;
+    h1{
+        font-size: 50px;
+        span{
+            color: #40AD74;
+        }
+    }
+    .qq{
+        display: flex;
+        justify-content: space-between;
+        .q1{
+            padding: 80px;
+            background-color:rgb(244, 242, 242);
+            border-radius: 40px;
+        }
+    }
+}
+.w{
+    padding: 100px;
+    h1{
+        font-size: 50px;
+        span{
+            color: #40AD74;
+        }
+    }
+    .ww{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .w1{
+            .w11{
+                display: flex;
+                align-items: center;
+                gap: 10px;
+            }
+        }
+    }
+}
+footer{
+    font-size: 20px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    div{
+        display: flex;
+        flex-direction: column;
+        img{
+            width: 250px;
+            margin: auto;
+        }
+        nav{
+            padding: 10px;
+            border-bottom: 1px solid gray;
+            ul{
+                display: flex;
+                gap: 160px;
+                li{
+                    list-style: none;
+                }
+            }
+        }
+        p{
+            padding: 20px;
+            margin: auto;
+            color: rgba(196, 196, 196, 1);
+        }
+    }
+}

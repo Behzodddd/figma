@@ -1,0 +1,22 @@
+<svg width="124" height="124" viewBox="0 0 124 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="124" height="124" rx="62" fill="#40AD74"/>
+<path d="M61 51.5V55.5" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M37 85.5V45.191C37 44.357 37.517 43.611 38.298 43.318L58.711 35.609C58.902 35.537 59.105 35.5 59.309 35.5C60.243 35.5 61 36.257 61 37.191V41.5" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M87 85.5V63.5C87 62.948 86.552 62.5 86 62.5H58C57.448 62.5 57 62.948 57 63.5V85.5" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M84 58.5H60" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M74 71.5H61V66.5H83V71.5H79" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M74 80.5H61V75.5H83V80.5H79" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M90 88.5H45" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M34 88.5H43" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M40 52.5H47" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M51 52.5H58" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M40 62.5H47" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M51 62.5H54" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M40 68.5H47" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M51 68.5H54" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M40 74.5H47" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M51 74.5H54" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M40 80.5H47" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M51 80.5H54" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+<path d="M74.5 44.5C74.308 44.5 74 44.5 74 44.5C74 44.5 74 44.169 74 44C74 41.515 71.985 39.5 69.5 39.5C67.186 39.5 65.302 41.253 65.05 43.5H65C63.343 43.5 62 44.843 62 46.5C62 48.157 63.343 49.5 65 49.5H74.5C75.881 49.5 77 48.381 77 47C77 45.619 75.881 44.5 74.5 44.5Z" stroke-width="2" stroke-miterlimit="10" stroke="white"/>
+</svg>
